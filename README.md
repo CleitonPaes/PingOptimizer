@@ -1,2 +1,4 @@
 # PingOptimizer
-This project is a non-complete part of PingFast, for a full and more revised version please check pingfast.com.br
+
+# Run as Admin
+# Change your Windows Settings for a better ping
