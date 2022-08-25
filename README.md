@@ -2,5 +2,5 @@
 
 ## Intro
 
-Change your Windows Settings for a better ping </p>
-This project is a non-complete part of PingFast, for a full and more revised version please check pingfast.com.br
+Change your Windows settings for a better ping </p>
+This project is part of PingFast for a more complete and revised version with a friendlier interface please check pingfast.com.br
